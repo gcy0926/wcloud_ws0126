@@ -1,0 +1,4 @@
+libDevoceControlex.so为设备管控密码模块库
+libswsds.so为加密机库
+libcrypto.a为底层支撑库
+libDevoceControlex.so依赖于libswsds.so和libcrypto.a
